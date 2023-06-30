@@ -139,5 +139,7 @@ public class VariablesTheme {
         int minute = secondQuantity % 60;
         int second = secondQuantity / 60 % 60;
         System.out.println("ЧЧ:ММ:СС = " + hour + ":" + minute + ":" + second);
+
+        System.out.println("my first push");
     }
 }
