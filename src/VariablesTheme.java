@@ -97,7 +97,11 @@ public class VariablesTheme {
 
         System.out.println("\n6. Вывод символов и их кодов");
 
-        char sign1 = '#', sign2 = '&', sign3 = '@', sign4 = '^', sign5 = '_';
+        char sign1 = '#';
+        char sign2 = '&';
+        char sign3 = '@';
+        char sign4 = '^';
+        char sign5 = '_';
         System.out.println((int) sign1 + " " + sign1 + "\n" +
                 (int) sign2 + " " + sign2 + "\n" +
                 (int) sign3 + " " + sign3 + "\n" +
